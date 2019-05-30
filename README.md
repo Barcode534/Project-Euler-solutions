@@ -3,6 +3,10 @@ PE solutions
 
 These are my solutions to problems on https://projecteuler.net/archives
 
+peX.py is the script to solve Project Euler problem X.
+
+My coding structure and technique has improved from pe1.py to pe55.py.
+
 I mainly just aim to solve the problem with the first idea that comes to mind (happens ~80%). 
 
 If I can't design a solution, I may have to research some number theory, then I try again (10%). 
