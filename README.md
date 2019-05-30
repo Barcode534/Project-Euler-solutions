@@ -3,12 +3,12 @@ PE solutions
 
 These are my solutions to problems on https://projecteuler.net/archives
 
-I mainly just aim to solve the problem with the first idea that comes to mind. 
+I mainly just aim to solve the problem with the first idea that comes to mind (happens ~80%). 
 
-If I can't design a solution, I may have to research some number theory, then I try again. 
+If I can't design a solution, I may have to research some number theory, then I try again (10%). 
 
-Sometimes I need to see someone elses code, and if I do, I take their idea and write mine myself to ensure I get it.
+Sometimes I need to see someone elses code, and if I do, I take their idea and write mine myself to ensure I get it (10%).
 
-I've solved 22 problems as of 19/4/2019, most of them this past week: https://gyazo.com/924000e3e8c70ab244627551fd17b9b7
+I've solved 58 solutions as of 30/05/2019: https://gyazo.com/924000e3e8c70ab244627551fd17b9b7
 
-I will continue solving them to keep developing my skills. Thinking about it now, it may be wise to use 1 or 2 other websites to ensure I'm getting good variety of problems.
+I've started doing some Leetcode.com - Completed 16 tasks there: https://gyazo.com/8d36d1565ee924e5c675a6efe614035e
